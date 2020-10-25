@@ -1,0 +1,29 @@
+youtube link: https://www.youtube.com/watch?v=9TJrx_M4YhM&t=16s
+
+website link: https://phpgurukul.com/hospital-management-system-in-php/
+
+
+installation guide: https://www.youtube.com/watch?v=LIIB9kvMw64&feature=youtu.be
+
+
+
+
+
+
+follow (5,6,7)***
+
+1. Download the zip file
+2. Extract the file and copy hospital folder
+3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+5. Create a database with name hms
+6. Import hms.sql file(given inside the zip package in SQL file folder)
+7.Run the script http://localhost/hospital (rename hospital here using dams)
+
+
+Login Details
+Login Details for admin : admin / Test@12345
+Login Details for Patient: test@gmail.com / Test@123
+			mahim@gmail.com / mahim123
+Login Details for Doctor: test@demo.com / Test@123
+			faruq@gmail.com / faruq123
