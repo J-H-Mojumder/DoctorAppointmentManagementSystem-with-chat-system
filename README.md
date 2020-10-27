@@ -6,3 +6,21 @@ I have added chat system with the existing system. It gives the doctors and the 
 ## Home page:
 <img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/home.PNG">
 
+## Patient login:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/patient-login.PNG">
+
+## Doctor login:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/doctor-login.PNG">
+
+## Admin login:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/admin-login.PNG">
+
+## Patient's appointment history:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/patient-appointment-history.PNG">
+
+## Patient's book appointment:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/patient-book-appointment.PNG">
+
+## Patient's medical history:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/patient-medical-history.PNG">
+
