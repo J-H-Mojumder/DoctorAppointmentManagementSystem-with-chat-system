@@ -48,5 +48,5 @@ I have added chat system with the existing system. It gives the doctors and the 
 ## Contact page:
 <img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/contact.PNG">
 
-## Entering password protected chat room:
-<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/joining-password-protected-room.PNG">
+## Create new chat room:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/create-new-room.PNG">
