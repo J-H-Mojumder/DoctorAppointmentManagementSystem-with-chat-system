@@ -33,8 +33,8 @@ I have added chat system with the existing system. It gives the doctors and the 
 ## Doctor manage patients:
 <img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/doctor-manage-patients.PNG">
 
-## Doctor appointment history:
-<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/doctor-appointment-history.PNG">
+## Doctor search patients:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/doctor-search-patient.PNG">
 
 ## Doctor appointment history:
 <img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/doctor-appointment-history.PNG">
