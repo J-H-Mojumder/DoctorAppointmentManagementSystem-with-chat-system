@@ -24,3 +24,20 @@ I have added chat system with the existing system. It gives the doctors and the 
 ## Patient's medical history:
 <img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/patient-medical-history.PNG">
 
+## Doctor loogged in:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/doctor-logged-in.PNG">
+
+## Doctor appointment history:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/doctor-appointment-history.PNG">
+
+## Doctor manage patients:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/doctor-manage-patients.PNG">
+
+## Doctor appointment history:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/doctor-appointment-history.PNG">
+
+## Doctor appointment history:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/doctor-appointment-history.PNG">
+
+## Doctor appointment history:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/doctor-appointment-history.PNG">
