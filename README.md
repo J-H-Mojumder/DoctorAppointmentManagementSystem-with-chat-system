@@ -42,11 +42,11 @@ I have added chat system with the existing system. It gives the doctors and the 
 ## Entering password protected chat room:
 <img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/joining-password-protected-room.PNG">
 
-## Entering password protected chat room:
-<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/joining-password-protected-room.PNG">
+## Entered password protected chat room:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/entered-password-protected-room.PNG">
 
-## Entering password protected chat room:
-<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/joining-password-protected-room.PNG">
+## Contact page:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/contact.PNG">
 
 ## Entering password protected chat room:
 <img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/joining-password-protected-room.PNG">
