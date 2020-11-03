@@ -36,8 +36,17 @@ I have added chat system with the existing system. It gives the doctors and the 
 ## Doctor search patients:
 <img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/doctor-search-patient.PNG">
 
-## Doctor appointment history:
-<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/doctor-appointment-history.PNG">
+## Chat dashboard:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/patient-chat-dashboard.PNG">
 
-## Doctor appointment history:
-<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/doctor-appointment-history.PNG">
+## Entering password protected chat room:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/joining-password-protected-room.PNG">
+
+## Entering password protected chat room:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/joining-password-protected-room.PNG">
+
+## Entering password protected chat room:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/joining-password-protected-room.PNG">
+
+## Entering password protected chat room:
+<img src="https://github.com/J-H-Mojumder/DoctorAppointmentManagementSystem-with-chat-system/blob/main/screenshots/joining-password-protected-room.PNG">
